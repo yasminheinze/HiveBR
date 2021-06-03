@@ -67,3 +67,7 @@ O segundo dígito do ID da ação de resposta no case template de ransomware ref
 
 
 Dessa forma, usando o ID da ação de resposta, você pode ver o estágio e a categoria aos quais ela pertence.
+
+# Artigo 
+
+O artigo com embasamento téorico e referências sobre o projeto estão disponíveis em https://pt.overleaf.com/read/jmwwpbyyksdk
